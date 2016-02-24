@@ -37,8 +37,11 @@ Software you'll need:
 Usage
 -----
 Commands in  Terminal: 115200 (no CR or CR/LF)
+
 1#   = Memory Dump - check that you get:  Found ARM processor debug port (IDCODE: 0bc11477)
+
 E#   = MassErase
+
 P#   = Program/Verify
 
 Okay, now your Rephone Thing is programmed!
