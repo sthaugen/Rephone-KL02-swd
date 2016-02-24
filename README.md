@@ -12,6 +12,7 @@ The Serial Wire Debug client here is a slightly adapted version of the one Micah
 It has optional extensions for the Freescale Kinetis microcontrollers, but the lower-level SWD interface should be compatible with any ARM microcontroller.
 
 Just look at the ingenious code at:
+
 https://github.com/scanlime/esp8266-arm-swd 
 https://github.com/scanlime/fadecandy/tree/master/testjig/production 
 
@@ -44,7 +45,9 @@ Okay, now your Rephone Thing is programmed!
 
 
 Solder 4 pind to the testpads on the backside of the module
+
 Hookups:
+-----
 
 | Rephone     | ESP8266 pin | 
 | ----------- | ----------- | 
